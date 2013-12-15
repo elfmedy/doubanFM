@@ -1,1 +1,7 @@
 this is a python project, get love musics from fm.douban.com
+
+lib request:
+
+beautiful soup : for html parser
+PyV8 : for runtime javascript
+PIL : for captcha image
